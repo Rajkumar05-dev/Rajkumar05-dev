@@ -1,12 +1,22 @@
 <h1 align="center">Hi 👋, I'm Raj Chauhan</h1>
 
 <h3 align="center">
-🚀 Java & Spring Boot Developer | Backend Enthusiast | Full-Stack Learner
+☕ Java Full-Stack Developer | Spring Boot | REST APIs | React
 </h3>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+  </a>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Spring+Boot+%26+REST+APIs;Backend+%2B+Frontend+Development;Clean+Code+%26+Best+Practices" />
 </p>
+</p>
+
+
+
+
 
 ---
 
