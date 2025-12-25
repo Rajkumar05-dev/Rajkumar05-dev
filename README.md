@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Raj Chauhan  
 
-<!--
-**Rajkumar05-dev/Rajkumar05-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java & Spring Boot Developer | Backend Enthusiast | Full-Stack Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧑‍💻 About Me  
+
+🎓 Pursuing B.Sc. / BCA / IT-related studies (update if needed)  
+🔭 Building backend applications using **Spring Boot & REST APIs**  
+🌱 Currently learning: **Spring Security (JWT), JPA/Hibernate, DevOps Basics**  
+👨‍💻 Projects: **EcoTrack, Hotel Booking System, User Authentication APIs**  
+⚡ Fun fact: I enjoy debugging backend issues more than writing UI 😄  
+📫 Reach me at: **raj122@gmail.com**  
+
+---
+
+## 🛠️ Languages & Tools  
+
+### Backend  
+☕ Java | Spring Boot | Spring Security | JPA | Hibernate | REST APIs  
+
+### Frontend  
+🌐 HTML5 | CSS3 | JavaScript | React   
+
+### Databases  
+🗄️ MySQL   
+
+### Tools & Platforms  
+🛠️ Git | GitHub | Postman | VS Code | IntelliJ IDEA | 
+
+---
+
+## 🏅 Certificates & Achievements  
+
+✅ Spring Boot & Java Backend Development (Hands-on Projects)  
+🏆 Built secure REST APIs using **JWT Authentication & Role-Based Access**  
+🚀 Developed multiple backend projects with **clean architecture & best practices**  
+💡 Strong understanding of **IoC, DI, JPA Repositories, Pagination (Page & Slice)**  
+
+---
+
+## 📊 GitHub Stats  
+
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkumar05-dev&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Connect With Me  
+
+🔗 GitHub: https://github.com/Rajkumar05-dev  
+💼 LinkedIn: (add your LinkedIn URL here)  
+
+---
+
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
+act: ...
 -->
