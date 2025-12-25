@@ -1,58 +1,69 @@
-# Hi 👋, I'm Raj Chauhan  
+<h1 align="center">Hi 👋, I'm Raj Chauhan</h1>
 
-🚀 Java & Spring Boot Developer | Backend Enthusiast | Full-Stack Learner  
+<h3 align="center">
+🚀 Java & Spring Boot Developer | Backend Enthusiast | Full-Stack Learner
+</h3>
 
----
-
-## 🧑‍💻 About Me  
-
-🎓 Pursuing B.Sc. / BCA / IT-related studies (update if needed)  
-🔭 Building backend applications using **Spring Boot & REST APIs**  
-🌱 Currently learning: **Spring Security (JWT), JPA/Hibernate, DevOps Basics**  
-👨‍💻 Projects: **EcoTrack, Hotel Booking System, User Authentication APIs**  
-⚡ Fun fact: I enjoy debugging backend issues more than writing UI 😄  
-📫 Reach me at: **raj122@gmail.com**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80"/>
+</p>
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🧑‍💻 About Me
 
-### Backend  
-☕ Java | Spring Boot | Spring Security | JPA | Hibernate | REST APIs  
-
-### Frontend  
-🌐 HTML5 | CSS3 | JavaScript | React   
-
-### Databases  
-🗄️ MySQL   
-
-### Tools & Platforms  
-🛠️ Git | GitHub | Postman | VS Code | IntelliJ IDEA | 
+- 🎓 Pursuing IT / Computer Science related studies  
+- 🔭 Building scalable **Spring Boot & REST API** applications  
+- 🌱 Currently learning **Spring Security (JWT), JPA, DevOps Basics**  
+- 👨‍💻 Projects: **EcoTrack, Hotel Booking System, Authentication APIs**  
+- ⚡ Fun fact: I enjoy fixing backend bugs more than UI 😄  
+- 📫 Reach me at: **rajchauhan5267@gmail.com**
 
 ---
 
-## 🏅 Certificates & Achievements  
+## 🛠️ Languages & Tools
 
-✅ Spring Boot & Java Backend Development (Hands-on Projects)  
-🏆 Built secure REST APIs using **JWT Authentication & Role-Based Access**  
-🚀 Developed multiple backend projects with **clean architecture & best practices**  
-💡 Strong understanding of **IoC, DI, JPA Repositories, Pagination (Page & Slice)**  
+### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+ 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🏅 Achievements
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkumar05-dev&show_icons=true&theme=radical)
-
----
-
-## 🤝 Connect With Me  
-
-🔗 GitHub: https://github.com/Rajkumar05-dev  
-💼 LinkedIn: (add your LinkedIn URL here)  
+- ✅ Built secure REST APIs using **JWT Authentication**
+- 🚀 Developed multiple backend projects with clean architecture
+- 💡 Strong knowledge of **IoC, DI, JPA Repositories**
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
-act: ...
--->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajkumar05-dev&show_icons=true&theme=radical"/>
+</p>
+
+---
+
+⭐ *“First make it work, then make it right, then make it fast.”*
