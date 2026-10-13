@@ -95,7 +95,7 @@ A complete hotel booking platform with **room search, availability check, bookin
 
 ---
 
-## 🎯 2025 Goals  
+## 🎯 2026 Goals  
 
 - Master **Spring Boot & Microservices**  
 - Build **Production-level Applications**  
